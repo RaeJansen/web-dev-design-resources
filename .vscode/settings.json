@@ -1,0 +1,6 @@
+{
+  "zenMode.showTabs": "none",
+  "workbench.editor.showTabs": "none",
+  "editor.linkedEditing": true,
+  "workbench.sideBar.location": "right"
+}
