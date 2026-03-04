@@ -185,14 +185,3 @@
 
 - [**Affinity Suite**](https://affinity.serif.com/) _(Paid • Desktop applications)_  
   Professional design tools; one-time purchase. _(AI features through Canva)_
-
-### Storytelling
-
-## Thank Yous
-
-These people so kindly shared their resouces with me to help me learn:
-
-- Bridgette Connell - Design Books
-- Broden Brett, who also asked his coworkers at Box Clever for their resources
-- Graham Neil - Story Resources
-- Dan Geilland - Development Resources
