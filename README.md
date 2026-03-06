@@ -89,6 +89,10 @@
 - [**Uncut**](https://uncut.wtf/) _(Free • Font library)_  
   High-quality modern typefaces.
 
+- [**Freefaces**](https://www.freefaces.gallery/) _(Free • Font library)_  
+  High-quality creative typefaces.
+  
+
 ### 🔍 Icons
 
 - [**Heroicons**](https://heroicons.com/) _(Free • Icon set)_  
