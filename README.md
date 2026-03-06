@@ -7,9 +7,6 @@
 - [**TL;DR Newsletter**](https://tldr.tech/) _(Free • Newsletter)_  
   Short summaries of current tech news and tools.
 
-- [**Tech Wednesdays (LUMA)**](https://luma.com/techwednesdays) _(Free • In-person meetup)_  
-  Weekly tech community meetup for networking and learning.
-
 ### 📄 Documentation & Writing
 
 - [**Diátaxis**](https://diataxis.fr/) _(Free • Documentation framework)_  
@@ -24,7 +21,7 @@
   High-quality tutorials for frontend and backend; many free series.  
   Referral link: https://laracasts.com/referral/cellen
 
-- [**O’Reilly Learning**](https://www.oreilly.com/) _(Paid, Free for NAIT Students • Course library)_  
+- [**O’Reilly Learning**](https://www.oreilly.com/) _(Paid • Course library)_  
   Technical courses and books; institutional access available.
 
 - [**Eloquent JavaScript**](https://eloquentjavascript.net/) _(Free • Online textbook)_  
@@ -87,6 +84,9 @@
   Large collection of open-source fonts.
 
 - [**Fontshare**](https://www.fontshare.com/) _(Free • Font library)_  
+  High-quality modern typefaces.
+
+- [**Uncut**](https://uncut.wtf/) _(Free • Font library)_  
   High-quality modern typefaces.
 
 ### 🔍 Icons
