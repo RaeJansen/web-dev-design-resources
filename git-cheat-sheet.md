@@ -1,4 +1,4 @@
-# Git Cheat Sheet
+# 💻 Git Terminal Cheat Sheet
 
 ---
 

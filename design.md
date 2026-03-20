@@ -1,4 +1,4 @@
-## 🖌️ Web Design Resources
+## 🎨 Web Design Resources
 
 ### 🧠 Design Knowledge
 
@@ -11,7 +11,7 @@
 - [**Laws of UX**](https://lawsofux.com/) _(Free • Online resource)_  
   Psychology-based UX design principles.
 
-### 🎨 Color Tools
+### 🩵🩷💛🖤 Color Tools
 
 - [**Paletton**](https://paletton.com/) _(Free • Palette generator)_
   Palette generation, harmonies, and accessibility checks.
