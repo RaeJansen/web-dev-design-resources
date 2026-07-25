@@ -41,7 +41,9 @@
 - [**Squoosh**](https://squoosh.app/) _(Free • Photo compression tool)_
   Best photo compression for more granular control.
 
-- [**SVG Minifier | Devina**](https://devina.io/svg-minifier) _(Free • SVG compression tool)_
-  Best single/bulk SVG compression.
+### 🏞️ CSS
+
+- [**Font-size clamp() Generator**]([https://bulkresizephotos.com/en](https://clamp.font-size.app/?config=eyJyb290IjoiMTYiLCJtaW5XaWR0aCI6IjMwMHB4IiwibWF4V2lkdGgiOiIxNDAwcHgiLCJtaW5Gb250U2l6ZSI6IjIwcHgiLCJtYXhGb250U2l6ZSI6IjYuMjVyZW0ifQ%3D%3D)) _(Free • Font size generator for CSS)_
+  Generate linearly scale font-size with clamp()
 
 ---
