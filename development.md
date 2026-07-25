@@ -43,7 +43,7 @@
 
 ### 🏞️ CSS
 
-- [**Font-size clamp() Generator**](https://clamp.font-size.app/?config=eyJyb290IjoiMTYiLCJtaW5XaWR0aCI6IjMwMHB4IiwibWF4V2lkdGgiOiIxNDAwcHgiLCJtaW5Gb250U2l6ZSI6IjIwcHgiLCJtYXhGb250U2l6ZSI6IjYuMjVyZW0ifQ%3D%3D)) _(Free • Font size generator for CSS)_
+- [**Font-size clamp() Generator**](https://clamp.font-size.app/?config=eyJyb290IjoiMTYiLCJtaW5XaWR0aCI6IjMwMHB4IiwibWF4V2lkdGgiOiIxNDAwcHgiLCJtaW5Gb250U2l6ZSI6IjIwcHgiLCJtYXhGb250U2l6ZSI6IjYuMjVyZW0ifQ%3D%3D)_(Free • Font size generator for CSS)_
   Generate linearly scale font-size with clamp()
 
 ---
